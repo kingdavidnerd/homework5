@@ -190,7 +190,7 @@ public class Geometry
  */
    public static double triangleArea(double height, double base)
    {
-	   return (1/2) * height * base;
+	   return 0.5 * height * base;
    }
    
    /**
